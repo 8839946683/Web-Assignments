@@ -36,9 +36,9 @@ body{
 }
 #search_image,#mic_img{
     position: absolute;
-    left: 900px;
+    left: 800px;
 }
 #search_img{
     position: absolute;
-    left: 540px;
+    left: 440px;
 }
